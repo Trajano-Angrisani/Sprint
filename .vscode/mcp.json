@@ -2,7 +2,7 @@
   "servers": {
     "ado-planejamento": {
       "type": "http",
-      "url": "https://mcp.dev.azure.com/<organizacao-azure-devops>",
+      "url": "https://mcp.dev.azure.com/nomebom",
       "headers": { "X-MCP-Toolsets": "wit,work" }
     },
     "ado-leitura": {
